@@ -1,1 +1,2 @@
 # Horror_Movie_Quiz
+This is a Quiz game focused on Horror movie trivia. This project is focused on the UI elements in UNITY. The user has limited time to answer a random questions and their scores are displayed at the end. The quiz displays time remaining and the correct answer will be displayed at the end of the timer. The user will only score a point if they select the correct answer. Selecting the wrong answer or no answer at all will result in no points. 
